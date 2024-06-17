@@ -1,2 +1,0 @@
-# scratch
-projeto do scratch 
